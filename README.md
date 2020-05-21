@@ -1,4 +1,4 @@
-[![TwilioSMS_XOJO Logo](/TwilioSMS_XOJO.png)
+![TwilioSMS_XOJO Logo](/TwilioSMS_XOJO.png)
 
 # TwilioSMS-with-XOJO
 

@@ -24,6 +24,8 @@ Cell Eleven is investigating the implementation of WebAPI into its XOJO software
  6. Add SID and Token data
  7. **RUN**
 
+## Generate Code Using Paw
+To make custom WebAPIs with XOJO use Paw and the XOJO code plugins.  [Directions can be found here.](https://blog.xojo.com/2016/01/06/generating-xojo-code-from-paw/)
 
 
 ## Authors

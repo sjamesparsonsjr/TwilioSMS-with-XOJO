@@ -2,7 +2,7 @@
 
 # TwilioSMS-with-XOJO
 
-Cell Eleven is investigating the implementation of WebAPI into its software suite.  This is a test application that works with Twilio SMS WebAPI.
+Cell Eleven is investigating the implementation of WebAPI into its XOJO software suite.  This is a test application that works with Twilio SMS WebAPI.
 
 
 ## Support Websites

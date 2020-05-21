@@ -36,7 +36,7 @@ To make custom WebAPIs with XOJO use Paw and the XOJO code plugins.  [Directions
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## FUND
+## Donations
 Please consider donating to the future of Cell Eleven
 [paypal.me/sjamesparsonsjr](https://www.paypal.com/paypalme/my/profile)
 

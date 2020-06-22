@@ -14,6 +14,8 @@ Cell Eleven is investigating the implementation of WebAPI into its XOJO software
 
 [Paw](https://paw.cloud/) is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions.
 
+[An Introduction to APIs](https://zapier.com/learn/apis/chapter-1-introduction-to-apis/)
+
 
 ## Getting started
  1. Download [XOJO](https://www.xojo.com/)
